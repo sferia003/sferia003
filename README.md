@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello!
+
+[![Statistics](https://github-readme-stats.vercel.app/api?username=sferia003&count_private=true&show_icons=true&theme=dark&custom_title=Statistics)](https://github.com/sferia003/sferia003)
+[![Statistics](https://github-readme-stats.vercel.app/api?username=sferia003&theme=highcontrast&custom_title=Statistics&count_private=true)](https://github.com/sferia003/sferia003)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr)](https://github.com/sferia003/ctracr)
 
 <!--
 **sferia003/sferia003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
