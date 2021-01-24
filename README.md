@@ -10,7 +10,18 @@ I'm Stephen, a student studying Computer Science at Purdue University. I am inte
 
 ## GitHub Statistics
 
-[![Statistics](https://github-readme-stats.vercel.app/api?username=sferia003&count_private=true&show_icons=true&theme=dark&custom_title=Statistics)](https://github.com/sferia003/sferia003)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sferia003&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/sferia003/sferia003">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sferia003&count_private=true&show_icons=true&theme=dark&custom_title=Statistics"/>
+</a>
+<a href="https://github.com/sferia003/sferia003">
+  <img align="center" src="](https://github-readme-stats.vercel.app/api/top-langs/?username=sferia003&layout=compact&theme=dark"/>
+</a>
 
+## Projects
 
+<a href="https://github.com/sferia003/ctracr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr&theme=dark"/>
+</a>
+<a href="https://github.com/rfheise/helloWrld-2020">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfheise&repo=helloWrld-2020&theme=dark"/>
+</a>
