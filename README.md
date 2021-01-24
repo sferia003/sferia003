@@ -11,6 +11,6 @@ I'm Stephen, a student studying Computer Science at Purdue University. I am inte
 ## GitHub Statistics
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=sferia003&count_private=true&show_icons=true&theme=dark&custom_title=Statistics)](https://github.com/sferia003/sferia003)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sferia003)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sferia003&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
