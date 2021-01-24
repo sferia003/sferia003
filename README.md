@@ -14,7 +14,7 @@ I'm Stephen, a student studying Computer Science at Purdue University. I am inte
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sferia003&count_private=true&show_icons=true&theme=dark&custom_title=Statistics"/>
 </a>
 <a href="https://github.com/sferia003/sferia003">
-  <img align="center" src="](https://github-readme-stats.vercel.app/api/top-langs/?username=sferia003&layout=compact&theme=dark"/>
+  <img align="center" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sferia003&layout=compact&theme=dark"/>
 </a>
 
 ## Projects
