@@ -1,7 +1,7 @@
 # Hello 👋
 
 
-I'm Stephen, a student studying Computer Science at Purdue University. I am interested in artificial intelligence, full-stack development, and programming language theory.
+I'm Stephen, a student studying Computer Science at Purdue University. I am interested in full-stack development and programming language theory.
 
 - 🌱 I’m currently learning **Back End Development** and **C**
 - 📫 How to reach me: sferia003@gmail.com
