@@ -6,7 +6,7 @@ I'm Stephen, a student studying Computer Science at Purdue University.
 
 ## Projects
 
-<a href="https://github.com/rfheise/helloWrld-2020">
+<a href="https://github.com/sferia003/hex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=hex&theme=dark"/>
 </a>
 <a href="https://github.com/weiyizhu/habitlink">
