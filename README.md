@@ -1,3 +1,3 @@
 # Hello 👋
 
-I'm Stephen, an incoming software engineer at Netflix.
+I'm Stephen, a software engineer at Netflix.
